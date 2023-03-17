@@ -1,4 +1,5 @@
 # CS_Project3 의류데이터 추천모델
+**해당 프로젝트는 데이터 스크래핑, 적재, 추출, 배포까지 시도하는 것에 초점 둔 프로젝트로 완성도가 다소 떨어짐을 미리 안내드립니다.** 
 ### **프로젝트개요**
 - 때때로 어떤 옷을 사야 할지 고민될 때가 있습니다. 
 - 그럴 때 제시 된 댄디, 섹시, 남친룩 같은 카테고리를 선택하면 의류를 추천해주는 모델을 만들고자합니다.
@@ -20,4 +21,17 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/110000734/225905545-2746838d-3349-4fe9-bd25-068b007f37b1.JPG" width=550>
 
+### 분석 및 배포
+**데이터 분석**
+- 데이터가 부족하여 의류의 평점을 예측하는 모델에서 accuracy 0.2의 낮은 정확도를 보임
+<p align="center">
+<img src="https://user-images.githubusercontent.com/110000734/225909270-210f4140-010f-4371-a205-3f7254556ed6.JPG" width=550>
 
+**대시보드 작성**
+<p align="center">
+<img src="" width=550>
+
+**배포**
+- 배포를 하는 것에는 성공하였으나, 페이지이동 구현과정에서 진전하지 못함
+<p align="center">
+<img src="https://user-images.githubusercontent.com/110000734/225912065-bffab689-8be2-4f1a-8d10-31560b87835b.JPG" width=300>
